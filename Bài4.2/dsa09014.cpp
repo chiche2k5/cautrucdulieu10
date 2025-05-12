@@ -3,7 +3,7 @@
 using ll = long long;
 using namespace std;
 
-// input là số lượng đỉnh, cạnh
+// input là sl đỉnh, cạnh
 
 int n, m;
 vector<int> adj[100001];

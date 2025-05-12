@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#define endl "\n"
 using namespace std;
 
 int b[1000001];
